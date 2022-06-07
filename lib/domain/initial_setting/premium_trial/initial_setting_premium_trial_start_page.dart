@@ -59,7 +59,7 @@ class IntiialSettingPremiumTrialStartPage extends HookConsumerWidget {
                           alignment: AlignmentDirectional.topEnd,
                           children: [
                             Image.asset(
-                              "images/quick-record.gif",
+                              "ios-images/quick-record.gif",
                             ),
                             Positioned(
                               right: -27,
